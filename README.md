@@ -26,3 +26,35 @@ El proyecto está basado en la estructura de una base de datos usada en una plat
 
 ## 🗃️ Estructura del proyecto
 
+
+
+---
+
+## 🧪 Cómo probarlo
+
+1. **Requisitos previos**:
+   - Tener MySQL ejecutándose localmente.
+   - Crear una base de datos llamada `plataforma_acueducto`.
+   - Crear la tabla `usuarios` con las columnas necesarias (`id_usuario`, `Nombre`, `Teléfono`, `Dirección`, `Correo`).
+   - Asegurarse de actualizar el usuario y contraseña en `dbConnection.java`.
+
+2. **Desde NetBeans**:
+   - Abrir el proyecto.
+   - Ejecutar el `main()` para probar los métodos del CRUD.
+
+---
+
+## ✍️ Autor
+
+- Sebastián  
+- 📍 Bogotá, Colombia  
+- 💻 Estudiante de Análisis y Desarrollo de Software
+
+---
+
+## 📌 Notas
+
+Este proyecto es parte de un proceso de aprendizaje progresivo sobre integración de Java con bases de datos, y servirá como base para futuras implementaciones en plataformas web.
+
+
+
